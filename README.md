@@ -16,4 +16,4 @@ conda env export > requirements.yaml
 
 Since I don't have a pet, here is a picture of an animal:
 
-![Dog](https://sunshine-photo.s3.us-east-2.amazonaws.com/wp-content/uploads/sunshine/2023/01/05235009/Hefe-Lavender-Print-scaled.jpg)
+![Dog](images/dog.jpg)
