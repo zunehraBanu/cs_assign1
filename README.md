@@ -1,8 +1,8 @@
-# My Software Engineering Assignment
+# Branch 1 of Assignment1
 
 This repository contains the necessary files for my **Software Engineering Assignment 1**
 
-## Setting Up the Conda Environment
+## Commands guideline
 
 To set up the required Conda environment, I have used the following commands:
 
@@ -12,7 +12,7 @@ conda install numpy matplotlib
 conda env export > requirements.yaml
 </code>
 
-### Animal Image
+### Dog Image
 
 Since I don't have a pet, here is a picture of an animal:
 
